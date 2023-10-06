@@ -1,6 +1,6 @@
 {
     "functions": {
-      "backend/src/controllers/helloWorld.ts": {
+      "src/controllers/*.ts": {
         "memory": 512,
         "maxDuration": 10
       }
