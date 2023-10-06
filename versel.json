@@ -1,0 +1,5 @@
+{
+    "functions": {
+      "/app/backend/src/controllers/helloWorld.ts": "/hello_world"
+    }
+}
