@@ -1,5 +1,12 @@
 {
+  "scripts": {
+    "postinstall": "prisma generate"
+  },
   "devDependencies": {
     "@vercel/node": "^3.0.7"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.7.0",
+    "prisma": "^5.7.0"
   }
 }
